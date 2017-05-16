@@ -1,0 +1,15 @@
+.Page * {
+  font-family: sans-serif;
+  margin: 0; }
+.Page button {
+  height: 40px;
+  width: 200px; }
+.Page .warning {
+  background-color: red;
+  text-align: center;
+  width: 100%;
+  padding: 10px;
+  font-size: 14pt;
+  color: white; }
+
+/*# sourceMappingURL=Page.css.map */

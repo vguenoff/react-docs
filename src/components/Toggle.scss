@@ -1,0 +1,18 @@
+.Toggle {
+  background: antiquewhite;
+  border-radius: 20px;
+  border: 2px solid cornflowerblue;
+  width: 40px;
+  height: 20px;
+  > div {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: red;
+    transition: 0.5s all;
+  }
+  .on {
+    transform: translateX(20px);
+    background: green;
+  }
+}
